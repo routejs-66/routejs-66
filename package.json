@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,15 +15,5 @@
   "bugs": {
     "url": "https://github.com/routejs-66/routejs-66/issues"
   },
-  "homepage": "https://github.com/routejs-66/routejs-66#readme",
-  "dependencies": {
-    "body-parser": "^1.17.1",
-    "dotenv": "^4.0.0",
-    "express": "^4.15.2",
-    "mongo": "^0.1.0",
-    "mongoose": "^4.8.6",
-    "morgan": "^1.8.1",
-    "nodemon": "^1.11.0",
-    "path": "^0.12.7"
-  }
+  "homepage": "https://github.com/routejs-66/routejs-66#readme"
 }
